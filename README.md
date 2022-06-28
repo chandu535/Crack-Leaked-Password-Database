@@ -1,0 +1,2 @@
+# Crack-Leaked-Password-Database
+MD5 hashing algorithm was used to generate all of the passwords. MD5 is vulnerable and has  been cryptographically cracked, making it insecure. If the password database is compromised,  passwords encrypted using MD5 might be decrypted in a matter of minutes. Finally, more  secure cryptographic hashing algorithms should be utilized, such as Secured Hashing Algorithm  (SHA), Salted MD5, RIPEMD-320, and Whirlpool.
